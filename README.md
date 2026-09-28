@@ -19,7 +19,7 @@ astronomical heritage of Aryabhata.
 
 ## 📌 Overview
 
-**Aryabhata's Observatory** is a physical coding and computational-thinking
+**AryaCode** is a physical coding and computational-thinking
 game designed around the idea of learning programming through interaction
 rather than conventional screen-based coding.
 
