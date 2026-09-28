@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="assets/images/logo.png" width="220">
+
 
 </p>
 
@@ -50,12 +50,14 @@ The prototype combines:
 - An ESP32 as the central controller
 
 <p align="center">
-  <img src="assets/images/prototype.png"
+  <img src="prototype.png.jpg"
        alt="Aryabhata's Observatory Prototype"
        width="700">
 </p>
 
 ## Workflow
+
+<img src="workflow.png.jpg" width="700">
 
 ```text
 Mission
