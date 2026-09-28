@@ -55,6 +55,9 @@ The prototype combines:
        width="700">
 </p>
 
+## Project Demo Link
+https://parth0102030.github.io/AryaCode-CAD/
+
 ## Workflow
 
 <img src="workflow.png.jpg" width="700">
@@ -75,3 +78,4 @@ Program Execution
 Goal Checking
    ↓
 OLED + LED + Buzzer Feedback
+
